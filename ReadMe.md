@@ -80,8 +80,3 @@ During training, the script reports:
 - proximal gate value,
 - and GPU memory usage when CUDA is available.
 
-## File Structure
-
-```bash
-main.py    # dataset loading, model definition, training, and evaluation
-```
