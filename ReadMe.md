@@ -1,4 +1,3 @@
-# Heterophily-Boosted Shifted ProxAct GNN
 
 ## Overview
 
