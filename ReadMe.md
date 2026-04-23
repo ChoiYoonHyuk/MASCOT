@@ -1,7 +1,7 @@
 
 ## Overview
 
-<img width="4145" height="2221" alt="Image" src="https://github.com/user-attachments/assets/bd7fd4d0-dcbe-40ce-b061-8a88becbf72e" />
+<img width="3145" height="1621" alt="Image" src="https://github.com/user-attachments/assets/bd7fd4d0-dcbe-40ce-b061-8a88becbf72e" />
 
 This repository provides a PyTorch Geometric implementation of a "Minimal Antisymmetric Shifted Coupled Activations with Structural Controls for Graph Neural Networks."
 
